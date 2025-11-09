@@ -239,16 +239,3 @@ img {
     height: 100%;
     border: 0;
 }
-
-@media (max-width: 600px) {
-    .filme-detalhe {
-        flex-direction: column;
-    }
-    .poster {
-        max-width: 100%;
-    }
-    .detalhes h2 {
-        font-size: 2em;
-    }
-
-}
